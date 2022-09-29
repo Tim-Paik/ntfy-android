@@ -15,6 +15,7 @@ app/release/
 # built application files
 *.apk
 *.ap_
+*.idsig
 
 # Mac files
 .DS_Store
